@@ -4,7 +4,9 @@ import "./Nav.css";
 function Nav() {
     return (
     <>
-          <div className="nav">This is Nav</div>
+          <div className="nav">
+              
+          </div>
     </>
     );
 }
